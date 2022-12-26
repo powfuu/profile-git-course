@@ -1,4 +1,7 @@
 const f1 = require('./features/feature1')
+const f2 = require('./features/feature2')
 console.log("Initialized Main Function Profile Git Course")
 console.log(f1.Initialize)
 console.log(f1.Feature1Print)
+console.log(f2.Initialize)
+console.log(f2.Feature2Print)
