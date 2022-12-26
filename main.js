@@ -1,0 +1,1 @@
+console.log("Initialized Main Function Profile Git Course")
