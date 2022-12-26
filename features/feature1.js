@@ -1,5 +1,5 @@
 const Initialize = () =>{
-    return "Initialize Feature 1"
+    return "Initialize Feature 1..."
 }
 const Feature1Print = () =>{
     return "Print Feature 1"
